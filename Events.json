@@ -1,5 +1,5 @@
 {
-    "EventOn": true,
+    "EventOn": false,
     "Title": "Summer Event",
     "Scene": "EventScene1",
     "BackgroundImage": "zsxdz"
