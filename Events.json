@@ -1,6 +1,6 @@
 {
-    "EventOn": false,
-    "Title": "Summer Event",
+    "EventOn": true,
+    "Title": "Autum Event",
     "Scene": "EventScene1",
     "BackgroundImage": "zsxdz"
 }
